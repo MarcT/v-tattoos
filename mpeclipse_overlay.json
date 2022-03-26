@@ -1,0 +1,236 @@
+[
+  {
+    "Name": "TAT_EC_000",
+    "LocalizedName": "Skulls and Roses",
+    "HashNameMale": "MP_MP_Eclipse_Tat_000_M",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_000_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 7250
+  },
+  {
+    "Name": "TAT_EC_001",
+    "LocalizedName": "Orchid Skull",
+    "HashNameMale": "MP_MP_Eclipse_Tat_001_M",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_001_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 5800
+  },
+  {
+    "Name": "TAT_EC_002",
+    "LocalizedName": "Fang and Thorn",
+    "HashNameMale": "MP_MP_Eclipse_Tat_002_M",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_002_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 5900
+  },
+  {
+    "Name": "TAT_EC_003",
+    "LocalizedName": "Left Sleeve",
+    "HashNameMale": "MP_MP_Eclipse_Tat_003_M",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_003_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 12000
+  },
+  {
+    "Name": "TAT_EC_004",
+    "LocalizedName": "Right Sleeve",
+    "HashNameMale": "MP_MP_Eclipse_Tat_004_M",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_004_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 1450
+  },
+  {
+    "Name": "TAT_EC_005",
+    "LocalizedName": "Tribal Skull",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_005_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 1850
+  },
+  {
+    "Name": "TAT_EC_006",
+    "LocalizedName": "Single Rose",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_006_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 4450
+  },
+  {
+    "Name": "TAT_EC_007",
+    "LocalizedName": "Tribal Stamp",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_007_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 6500
+  },
+  {
+    "Name": "TAT_EC_008",
+    "LocalizedName": "3 Roses",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_008_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 6200
+  },
+  {
+    "Name": "TAT_EC_009",
+    "LocalizedName": "Tribal Stamp 2",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_009_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 4800
+  },
+  {
+    "Name": "TAT_EC_010",
+    "LocalizedName": "Butterfly Stamp",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_010_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 6600
+  },
+  {
+    "Name": "TAT_EC_011",
+    "LocalizedName": "Butterfly",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_011_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 1650
+  },
+  {
+    "Name": "TAT_EC_012",
+    "LocalizedName": "Sternum",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_012_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_013",
+    "LocalizedName": "Queen Apendix",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_013_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 7000
+  },
+  {
+    "Name": "TAT_EC_014",
+    "LocalizedName": "Lace Garter",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_014_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 3100
+  },
+  {
+    "Name": "TAT_EC_015",
+    "LocalizedName": "Bow Garter",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_015_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 5500
+  },
+  {
+    "Name": "TAT_EC_016",
+    "LocalizedName": "Queen Ankle",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_016_F",
+    "Zone": "ZONE_RIGHT_LEG",
+    "ZoneID": 5,
+    "Price": 5500
+  },
+  {
+    "Name": "TAT_EC_017",
+    "LocalizedName": "Sternum Purple Heart",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_017_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_018",
+    "LocalizedName": "2Female Love",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_018_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 7000
+  },
+  {
+    "Name": "TAT_EC_019",
+    "LocalizedName": "Eye of Ra",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_019_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 1450
+  },
+  {
+    "Name": "TAT_EC_020",
+    "LocalizedName": "Black Cat",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_020_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_021",
+    "LocalizedName": "Egyptian Cat",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_021_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_022",
+    "LocalizedName": "Sun and Moon",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_022_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_023",
+    "LocalizedName": "Ankh",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_023_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_024",
+    "LocalizedName": "Moon Rays",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_024_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_025",
+    "LocalizedName": "Egyptian Wings",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_025_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  }
+]

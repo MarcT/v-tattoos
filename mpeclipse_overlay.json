@@ -232,5 +232,68 @@
     "Zone": "ZONE_TORSO",
     "ZoneID": 0,
     "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_026",
+    "LocalizedName": "Saturn",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_026_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_027",
+    "LocalizedName": "Cherry",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_027_F",
+    "Zone": "ZONE_LEFT_ARM",
+    "ZoneID": 2,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_028",
+    "LocalizedName": "Koi",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_028_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_029",
+    "LocalizedName": "Great Butterfly",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_029_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_030",
+    "LocalizedName": "Roses",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_030_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_031",
+    "LocalizedName": "Swallow",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_031_F",
+    "Zone": "ZONE_TORSO",
+    "ZoneID": 0,
+    "Price": 2250
+  },
+  {
+    "Name": "TAT_EC_032",
+    "LocalizedName": "Wear Your Heart",
+    "HashNameMale": "",
+    "HashNameFemale": "MP_MP_Eclipse_Tat_032_F",
+    "Zone": "ZONE_RIGHT_ARM",
+    "ZoneID": 3,
+    "Price": 2250
   }
 ]
